@@ -1,0 +1,5 @@
+# Ignore strong reject outputs
+
+compressed_context_ifeval_outputs/
+helper_compressed_context_ifeval/
+plot_compressed_context_eval_and_raccoon_outputs/

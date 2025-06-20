@@ -1,0 +1,12 @@
+absl-py>=1.4.0
+immutabledict>=4.2.1
+jsonargparse>=4.40.0
+langdetect>=1.0.9
+matplotlib>=3.10.6
+nltk>=3.9.1
+pandas>=2.3.3
+rouge_score>=0.1.2
+tqdm>=4.67.1
+numpy==2.3.3
+torch==2.7.1
+transformers==4.51.3
