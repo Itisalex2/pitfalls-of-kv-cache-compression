@@ -6,7 +6,8 @@
 
 This repository contains the code for [*The Pitfalls of KV Cache Compression*](https://arxiv.org/abs/2510.00231).
 
-> **_TL;DR_**: We study the effects of KV cache compression under a multi-instruction setting, showing that some instructions are ignored when compressed. We then argue that this phenomenon can be mitigated by reducing the eviction bias towards certain instructions.
+> **_TL;DR_**: for prompts with multiple instructions, KV cache compression can lead to some instructions being ignored. We propose simple changes to KV cache eviction policies that fix this. 
+
 
 ## Code structure
 ```
